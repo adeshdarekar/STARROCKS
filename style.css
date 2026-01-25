@@ -371,7 +371,7 @@ body {
 .overlay {
   position: fixed;
   inset: 0;
-  background-color: var(--black_60);
+  background-color: var(--prussian-blue);
   z-index: 2;
   visibility: hidden;
   opacity: 0;
