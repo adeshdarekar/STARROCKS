@@ -39,8 +39,9 @@
    * typography
    */
 
-  --ff-oswald: 'Poppins', sans-serif;
---ff-rubik: 'Inter', sans-serif;
+  body {
+  font-family: 'Inter', sans-serif;
+}
 
   --fs-1: 6rem;
   --fs-2: 5rem;
