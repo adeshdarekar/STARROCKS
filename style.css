@@ -293,7 +293,7 @@ body {
   transition: var(--transition);
 }
 
-.header.active { background-color: var(--black); }
+.header.active { background-color: var(--prussian-blue); }
 
 .header .container {
   display: flex;
