@@ -41,6 +41,9 @@
 
   --ff-oswald: 'Oswald', sans-serif;
   --ff-rubik: 'Rubik', sans-serif;  
+ --ff-heading: "Zalando Sans Expanded", sans-serif;
+  --ff-body: -apple-system, BlinkMacSystemFont, "Segoe UI",
+             Roboto, Helvetica, Arial, sans-serif;
 
   --fs-1: 6rem;
   --fs-2: 5rem;
@@ -302,8 +305,8 @@ body {
 }
 
 .logo {
-  font-family: var(--ff-oswald);
-  color: var(--dark-orange);
+  font-family: var(--ff-heading);
+  color: var(--white);
   font-size: 3rem;
 }
 
@@ -410,7 +413,7 @@ body {
 }
 
 .hero-title .span {
-  color: var(--prussian-blue);
+  color: var(--white);
   font-size: var(--fs-2);
   font-weight: var(--fw-700);
 }
