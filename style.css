@@ -303,7 +303,7 @@ body {
 
 .logo {
   font-family: var(--ff-oswald);
-  color: var(--white);
+  color: var(--dark-orange);
   font-size: 3rem;
 }
 
@@ -410,7 +410,7 @@ body {
 }
 
 .hero-title .span {
-  color: var(--dark-orange);
+  color: var(--prussian-blue);
   font-size: var(--fs-2);
   font-weight: var(--fw-700);
 }
@@ -492,7 +492,7 @@ body {
 
 .about-icon {
   min-width: max-content;
-  color: var(--dark-orange);
+  color: var(--prussian-blue);
   margin-block-start: 8px;
 }
 
@@ -527,7 +527,7 @@ body {
 
 .service-card .card-title .span {
   display: inline-block;
-  color: var(--dark-orange);
+  color: var(--prussian-blue);
   font-size: var(--fs-3);
   margin-inline-end: 15px;
 }
@@ -565,7 +565,7 @@ body {
   transition: var(--transition);
 }
 
-.feature-card:is(:hover, :focus-within)::before { color: var(--dark-orange); }
+.feature-card:is(:hover, :focus-within)::before { color: var(--prussian-blue); }
 
 .feature-card .card-icon {
   background-color: var(--alice-blue);
