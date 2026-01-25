@@ -39,11 +39,8 @@
    * typography
    */
 
-  --ff-oswald: -apple-system, BlinkMacSystemFont, "Segoe UI",
-               Roboto, Helvetica, Arial, sans-serif;
-
-  --ff-rubik:  -apple-system, BlinkMacSystemFont, "Segoe UI",
-               Roboto, Helvetica, Arial, sans-serif;
+  --ff-oswald: 'Oswald', sans-serif;
+  --ff-rubik: 'Rubik', sans-serif;  
 
   --fs-1: 6rem;
   --fs-2: 5rem;
