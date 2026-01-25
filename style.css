@@ -307,7 +307,7 @@ body {
 .logo {
   font-family: var(--ff-heading);
   color: var(--white);
-  font-size: 3rem;
+  font-size: 2.2rem;
 }
 
 .nav-open-btn {
