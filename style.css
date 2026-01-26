@@ -347,7 +347,7 @@ body {
 
 .navbar-top .logo {
   color: var(--onyx);
-  font-size: 3rem;
+  font-size: 1.5rem;
 }
 
 .nav-close-btn { font-size: 25px; }
